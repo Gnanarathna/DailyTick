@@ -59,7 +59,7 @@ npx expo start
 
 Click the link below to install on your Android phone:
 
-➡️ [Download the latest DailyTick APK](#) *(https://drive.google.com/file/d/1kHlaR0APhSuwMSd99Af7PftwNeuMpBX9/view?usp=sharing)*
+➡️ [Download the latest DailyTick APK](https://drive.google.com/file/d/1kHlaR0APhSuwMSd99Af7PftwNeuMpBX9/view?usp=sharing)
 
 > Open on Android → Download → Allow unknown sources → Install
 
