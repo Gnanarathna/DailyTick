@@ -29,10 +29,10 @@ It helps you manage your daily tasks with a clean UI and easy-to-use features.
 
 ## 📸 Screenshots
 
-<img src="WhatsApp%20Image%202025-07-17%20at%2019.34.19_47e0d204.jpg" />
-<img src="WhatsApp%20Image%202025-07-17%20at%2019.34.19_d4d7e082.jpg" />
-<img src="WhatsApp%20Image%202025-07-17%20at%2019.34.20_8fdc5ac1.jpg" />
-<img src="WhatsApp%20Image%202025-07-17%20at%2019.34.20_87e74d76.jpg" />
+![DailyTick Screenshot](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_47e0d204.jpg)
+![DailyTick Screenshot](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_d4d7e082.jpg)
+![DailyTick Screenshot](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.20_8fdc5ac1.jpg)
+![DailyTick Screenshot](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.20_87e74d76.jpg)
 
 ---
 
