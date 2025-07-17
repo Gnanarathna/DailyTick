@@ -25,16 +25,15 @@ It helps you manage your daily tasks with a clean UI and easy-to-use features.
 - **Ionicons (expo/vector-icons)** for icons
 
 
-## 📸 Screenshots   
+## 📸 Screenshots  
 
-![Screenshot 1](assets/one.jpg)  
+<img src="assets/one.jpg" width="250" />  
 
-![Screenshot 2](assets/two.jpg)  
+<img src="assets/two.jpg" width="250" />  
 
-![Screenshot 3](assets/three.jpg)  
+<img src="assets/three.jpg" width="250" />  
 
-![Screenshot 4](assets/four.jpg) 
-
+<img src="assets/four.jpg" width="250" />  
 
 ## 🚀 Installation
 
