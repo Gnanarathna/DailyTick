@@ -29,10 +29,10 @@ It helps you manage your daily tasks with a clean UI and easy-to-use features.
 
 ## 📸 Screenshots
 
-![DailyTick Screenshot](WhatsApp%20Image%202025-07-17%20at%2019.34.19_47e0d204.jpg)
-![DailyTick Screenshot](WhatsApp%20Image%202025-07-17%20at%2019.34.19_d4d7e082.jpg)
-![DailyTick Screenshot](WhatsApp%20Image%202025-07-17%20at%2019.34.20_8fdc5ac1.jpg)
-![DailyTick Screenshot](WhatsApp%20Image%202025-07-17%20at%2019.34.20_87e74d76.jpg)
+<img src="WhatsApp%20Image%202025-07-17%20at%2019.34.19_47e0d204.jpg" />
+<img src="WhatsApp%20Image%202025-07-17%20at%2019.34.19_d4d7e082.jpg" />
+<img src="WhatsApp%20Image%202025-07-17%20at%2019.34.20_8fdc5ac1.jpg" />
+<img src="WhatsApp%20Image%202025-07-17%20at%2019.34.20_87e74d76.jpg" />
 
 ---
 
@@ -62,7 +62,11 @@ npx expo start
 
 ## 📥 APK Download
 
+Click the link below to install on your Android phone:
+
 ➡️ [Download the latest DailyTick APK](#) *(https://drive.google.com/file/d/1kHlaR0APhSuwMSd99Af7PftwNeuMpBX9/view?usp=sharing)*
+
+> Open on Android → Download → Allow unknown sources → Install
 
 ---
 
