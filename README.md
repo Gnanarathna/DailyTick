@@ -27,13 +27,10 @@ It helps you manage your daily tasks with a clean UI and easy-to-use features.
 
 ## 📸 Screenshots  
 
-<img src="assets/one.jpg" width="250" />  
+| <img src="assets/one.jpg" width="250"/> | <img src="assets/two.jpg" width="250"/> |
+|----------------------------------------|----------------------------------------|
+| <img src="assets/three.jpg" width="250"/> | <img src="assets/four.jpg" width="250"/> |
 
-<img src="assets/two.jpg" width="250" />  
-
-<img src="assets/three.jpg" width="250" />  
-
-<img src="assets/four.jpg" width="250" />  
 
 ## 🚀 Installation
 
