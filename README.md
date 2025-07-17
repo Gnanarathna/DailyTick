@@ -29,7 +29,7 @@ It helps you manage your daily tasks with a clean UI and easy-to-use features.
 
 ![Screenshot 2025-06-27 125043](https://github.com/user-attachments/assets/e704050e-2692-464c-bd83-9e78b4e253f7)
 
-![Screenshot 1](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_47e0d204.jpg)  
+![Screenshot 2025-07-17 47e0d204](https://github.com/user-attachments/assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_47e0d204)  
 
 ![Screenshot 2](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_d4d7e082.jpg)  
 
