@@ -14,7 +14,6 @@ It helps you manage your daily tasks with a clean UI and easy-to-use features.
 - 💾 **Persistent storage** using AsyncStorage (tasks remain after app restart)
 - ⚡ **Fast and lightweight**
 
----
 
 ## 📱 Tech Stack
 
@@ -25,9 +24,10 @@ It helps you manage your daily tasks with a clean UI and easy-to-use features.
 - **react-native-safe-area-context** for better layout
 - **Ionicons (expo/vector-icons)** for icons
 
----
 
 ## 📸 Screenshots  
+
+![Screenshot 2025-06-27 125043](https://github.com/user-attachments/assets/e704050e-2692-464c-bd83-9e78b4e253f7)
 
 ![Screenshot 1](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_47e0d204.jpg)  
 
@@ -37,7 +37,6 @@ It helps you manage your daily tasks with a clean UI and easy-to-use features.
 
 ![Screenshot 4](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.20_87e74d76.jpg)  
 
----
 
 ## 🚀 Installation
 
@@ -61,7 +60,6 @@ npx expo start
 - Scan the QR code with the **Expo Go** app
 - Or run on an emulator
 
----
 
 ## 📥 APK Download
 
@@ -71,7 +69,6 @@ Click the link below to install on your Android phone:
 
 > Open on Android → Download → Allow unknown sources → Install
 
----
 
 ## 🛠 Author
 
@@ -79,7 +76,6 @@ Click the link below to install on your Android phone:
 - 🎓 NSBM Green University
 - [GitHub](https://github.com/Gnanarathna)
 
----
 
 ## 😊 Final Note
 I’m really happy to share this simple ToDo app with you.
