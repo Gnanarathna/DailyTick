@@ -27,12 +27,11 @@ It helps you manage your daily tasks with a clean UI and easy-to-use features.
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-![DailyTick Screenshot](https://raw.githubusercontent.com/Gnanarathna/DailyTick/main/assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_47e0d204.jpg)
-![DailyTick Screenshot](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_d4d7e082.jpg)
-![DailyTick Screenshot](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.20_8fdc5ac1.jpg)
-![DailyTick Screenshot](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.20_87e74d76.jpg)
+| ![Screenshot 1](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_47e0d204.jpg) | ![Screenshot 2](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.19_d4d7e082.jpg) |
+|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| ![Screenshot 3](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.20_8fdc5ac1.jpg) | ![Screenshot 4](assets/WhatsApp%20Image%202025-07-17%20at%2019.34.20_87e74d76.jpg) |
 
 ---
 
